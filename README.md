@@ -799,7 +799,7 @@
 
     **[[⬆]](#TOC)**
 
-## <a name='whitespace'>Whitespace</a>
+## <a name='encoding'>Encoding</a>
 
     - The default encoding of all files is UTF-8.
 
